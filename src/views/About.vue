@@ -61,22 +61,22 @@
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
           <div>
             <div class="text-4xl font-bold mb-2">500+</div>
-            <p>Clientes Ativos</p>
+            <p>Active Clients</p>
           </div>
           
           <div>
             <div class="text-4xl font-bold mb-2">50+</div>
-            <p>Colaboradores</p>
+            <p>Team Members</p>
           </div>
           
           <div>
             <div class="text-4xl font-bold mb-2">3</div>
-            <p>Escritórios</p>
+            <p>Offices</p>
           </div>
           
           <div>
             <div class="text-4xl font-bold mb-2">95%</div>
-            <p>Satisfação dos Clientes</p>
+            <p>Customer Satisfaction</p>
           </div>
         </div>
       </div>
