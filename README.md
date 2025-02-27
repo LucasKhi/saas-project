@@ -28,5 +28,5 @@ Este projeto é uma landing page para a Aetherfy, uma plataforma SaaS que oferec
 3. **Execute o servidor de desenvolvimento**
 
     ```bash
-        npm run dev
+    npm run dev
     ```
